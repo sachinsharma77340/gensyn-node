@@ -1,15 +1,21 @@
 <div align="center">
 
-# 💻 Gensyn AI RL-Swarm Guide (Mac/Linux) 💻
+# 💻 Gensyn AI RL-Swarm Guide (Windows/Mac/Linux) 💻
 
 </div>
 
 ## ✅ System Requirements
+![image](https://github.com/user-attachments/assets/c82d8c07-2880-4d3b-be39-1655fc7c95ab)
 
 > ❌ **Don’t use low-spec devices!** It may crash your system.
 
 Use a good VPS or high-performance local machine.
 
+
+
+## NOTE: You Can rent VPS on "https://contabo.com/en/vps/" budget freindly 
+
+ 
 ## 1️⃣ Connect to VPS
 
 ```bash
