@@ -78,14 +78,10 @@ yarn -v
 ```bash
 git clone https://github.com/gensyn-ai/rl-swarm.git
 screen -S gensyn
-cd rl-swarm
-python3 -m venv .venv
-source .venv/bin/activate
-cd modal-login
-yarn install
-yarn upgrade && yarn add next@latest && yarn add viem@latest
-cd ..
-./run_rl_swarm.sh
+
+cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-testnet.git && chmod +x gensyn-testnet/gensyn.sh && ./gensyn-testnet/gensyn.sh
+
+
 ```
 
 When prompted:
